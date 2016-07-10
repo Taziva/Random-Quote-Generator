@@ -1,0 +1,49 @@
+body {
+  background-color: #CB99C9 !important
+}
+
+#quoteBox {
+  background-color: white;
+  text-align: center;
+  margin-top: 10em;
+  border-radius: 5px;
+  color: #CB99C9;
+  box-shadow: 6px 6px 5px #986696;
+}
+
+blockquote {
+  border-left: none !important;
+}
+
+#quoteArea {
+  display: inline;
+}
+
+#rqgButtons {
+  margin-bottom: 1.75em;
+}
+
+#rqgTwitterIcon {
+  float: left;
+  margin-left: 0.75em;
+  color: #CB99C9 !important;
+}
+
+#anotherOne {
+  color: white;
+  background-color: #CB99C9;
+  border: 0x solid black !important;
+  border-radius: 4px;
+  float: right;
+  margin-right: 2em;
+}
+
+#anotherOne:active {
+  border: none !important;
+}
+
+#creatorTag {
+  text-align: center;
+  color: white;
+  margin-top: 2em;
+}
